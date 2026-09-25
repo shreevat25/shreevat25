@@ -56,11 +56,11 @@
 
 ---
 
-### Top Languages
+### Currently Building
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shreevat25&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
-</div>
+- 🤖 RAG pipeline with fine-tuned sentence embeddings + vector search (FAISS / ChromaDB)
+- ☸️ Kubernetes operator for ephemeral PR preview environments (Go + controller-runtime)
+- 📡 Distributed job scheduler with FastAPI + PostgreSQL backend
 
 ---
 
